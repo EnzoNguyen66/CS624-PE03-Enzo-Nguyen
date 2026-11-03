@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cs624"
+assignment: "hos04"
+secret: "piw6c2z1"
+owner:
+  username: "EnzoNguyen66"
+  id: 220624626
+  accepted_at: "2026-10-29T04:28:53Z"
+source:
+  owner: "cityuseattle"
+  owner_id: 53064240
+  repo: "CS624-HOS04-Fall"
+  branch: "main"
